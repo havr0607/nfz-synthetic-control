@@ -1,0 +1,11 @@
+Municipality,Model,Pre-RMSPE,Post-RMSPE,Ratio,Mean Post Gap
+Acuna,log_immex_emp,0.057,0.291,5.1,-0.2562
+Reynosa,sop,0.9584,3.994,4.17,2.766
+Tijuana,sop,1.3046,2.8185,2.16,2.6891
+Tecate,sop,0.999,2.0438,2.05,-0.7328
+Mexicali,sop,0.2557,0.5073,1.98,0.2063
+Juarez,sop,1.7287,3.3332,1.93,2.9101
+Nogales,sop,1.0014,1.8167,1.81,0.445
+Matamoros,sop,0.7625,1.2438,1.63,0.8021
+Nuevo Laredo,sop,0.7756,0.9915,1.28,-0.7789
+Ensenada,sop,0.2912,0.3628,1.25,0.061

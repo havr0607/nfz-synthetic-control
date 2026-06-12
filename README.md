@@ -76,4 +76,4 @@ Placebo (permutation) inference across the donor pool, the Wiltshire (2021) stac
 
 ---
 
-**Author:** Hector Alejandro Vazquez Reyes
+**Author:** Hector Alejandro Vazquez Reyez
